@@ -2,6 +2,8 @@
 
 I'm trying to learn python... thats all
 
+I'm following this method: http://learnpythonthehardway.org/book/ex0.html
+
 ## Dependencies
 
 - Microsoft PowerShell
